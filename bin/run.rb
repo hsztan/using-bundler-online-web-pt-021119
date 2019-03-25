@@ -1,6 +1,6 @@
 require_relative "../config/environment.rb"
 
-Hashie
+#Hashie
 Sinatra
 Octokit
 Pry
